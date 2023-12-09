@@ -1,6 +1,6 @@
-def greet():
-    print("Hello!")
-    print("How do you do?")
+def greet(name):
+    print(f"Hello {name}!")
+    print(f"How do you do, {name}?")
     print("Weather is nice today.")
 
-greet()
+greet(input("What is your name? "))
