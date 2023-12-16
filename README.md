@@ -4,3 +4,5 @@
 # The purpose of taking this course is to review Python basics outlined in the first few days, listed as "Beginner" or containing "review", and to expand on my Python skillset by reviewing python concepts and completing exercises provided in the class
 
 # Let these files provide proof of Python understanding
+
+# NOTE: This course is not yet complete, and much of this course is review.
