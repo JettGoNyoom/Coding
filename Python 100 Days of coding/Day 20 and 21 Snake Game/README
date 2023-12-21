@@ -1,0 +1,10 @@
+Learning more of the info needed to build the snake game in Python
+DAY 1 (20): 
+    > Create snake Body
+    > Move the snake (continuously moves forwards, user changes direction)
+    > How to control snake using keyboard controls
+DAY 2 (21):
+    > Detect collision with food
+    > Create scoreboard
+    > Detect collision with wall
+    > Detect collision with tail

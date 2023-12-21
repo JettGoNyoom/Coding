@@ -1,0 +1,9 @@
+Learning more on 
+    > Turtle Graphics
+    > Event Listeners
+    > State and Multiple instances
+    > Higher Order Functions: contains other functions as a parameter or returns a function as an output
+
+End goals to create games:
+    > Etch-a-sketch: up and down arrows to move turtle forward and back, turn cw and ccw with left right arrows
+    > Turtle racing game. bet on color.
