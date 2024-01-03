@@ -1,0 +1,11 @@
+Building the Game Pong.
+
+Break the components of the code into 8 pieces.
+    - Create screen
+    - Create and Move paddle
+    - create another paddle for 2 player game
+    - create ball and make it move
+    - detect collision with wall and bounce
+    - detect collision with paddles
+    - detection when paddle misses
+    - keep score
