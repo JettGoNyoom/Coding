@@ -1,0 +1,6 @@
+Creating the turtle crossing game
+    - Move turtle with keypress
+    - create and move the cars
+    - detect collision with car
+    - detect when turtle reaches other side
+    - create scoreboard
