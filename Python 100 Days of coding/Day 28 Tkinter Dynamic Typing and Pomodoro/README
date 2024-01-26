@@ -1,0 +1,6 @@
+More advanced applications of Tkinter. Dynamic typing. Pomodoro GUI application.
+Pomodoro:
+    work 25 min
+    5 min break
+    repeat 4 times
+    15 minute break
