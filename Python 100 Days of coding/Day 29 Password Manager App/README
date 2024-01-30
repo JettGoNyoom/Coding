@@ -1,0 +1,11 @@
+Intermediate
+Building a Password Manager GUI app with Tkinter
+Canvas Documentation: https://tkdocs.com/tutorial/canvas.html
+
+Building an app called "My Pass" to store and generate passwords
+- Provide name of website so we know what the password is for
+- input email/username
+- come up with a password or generate password
+- Add the credentials to a text file locally
+- if you click "add" with any empty fields, a popup points it out
+- generating a password immediately copies the generated password into clipboard for immediate pasting to another field
