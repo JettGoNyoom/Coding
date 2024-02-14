@@ -1,0 +1,46 @@
+Intermediate +
+    - Email SMTP
+    - Datetime module'
+
+Send email using python code, and determine when to send the email using datetime module. 
+Automated birthday wisher. 
+WILL NOT be using any real emails related to me or anyone I know personally. Thus, this program may not work functionally, but the key takeaways will still be learned.
+
+Gmail: smtp.gmail.com
+
+Hotmail: smtp.live.com
+
+Outlook: outlook.office365.com
+
+Yahoo: smtp.mail.yahoo.com
+Below are steps specific to users sending email from Gmail addresses.
+
+2. Go to https://myaccount.google.com/
+
+Select Security on the left and scroll down to How you sign in to Google.
+
+Enable 2-Step Verification
+
+
+
+3. Click on 2-Step Verification again, and scroll to the bottom.
+
+There you can add an App password.
+
+Select Other from the dropdown list and enter an app name, e.g. Python Mail, then click Generate.
+
+COPY THE PASSWORD - This is the only time you will ever see the password. It is 16 characters with no spaces.
+
+Use this App password in your Python code instead of your normal password.
+
+
+
+4. Add a port number by changing your code to this:
+
+smtplib.SMTP("smtp.gmail.com", port=587)
+
+SMPT DOCUMENTATION: https://docs.python.org/3/library/smtplib.html
+DATETIME DOCUMENTATION: https://docs.python.org/3/library/datetime.html
+
+Sending email: jettsender@gmail.com
+Receiving Email: jettreceiver@yahoo.com

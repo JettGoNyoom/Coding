@@ -1,0 +1,17 @@
+Intermediate+
+Application Programming Interface (API) 
+Focusing on interacting with external systems.
+Python Request Module Documentation:
+    https://docs.python-requests.org/en/latest/
+API Wiki:
+    https://en.wikipedia.org/wiki/API
+ISS Location:
+    http://open-notify.org/Open-Notify-API/ISS-Location-Now/
+HTML Response Codes:
+    https://www.webfx.com/web-development/glossary/http-status-codes/
+    Look at first number to determine meaning of response:
+        1XX: Hold on, this is not final
+        2XX: Here you go, successful, data expected
+        3XX: lack of permission, go away
+        4XX: you screwed up
+        5XX: I screwed up
