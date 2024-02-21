@@ -1,13 +1,12 @@
-#api_key = "7bfe4894bea0b801653e7098e61d1326"
-#api_key2 = "9d40a9a6f19083a1716b2fb168166540"
+
 
 import requests
 from twilio.rest import Client
 
 OWM_Endpoint = "https://api.openweathermap.org/data/2.5/forecast"
-api_key = "7bfe4894bea0b801653e7098e61d1326"
-account_sid = "AC18f4d2aab1b8db0bc4d054ea41d51124"
-auth_token = "e26259ec1eb17a5cb945a15734b111b3"
+api_key = "Key1"
+account_sid = "SID1"
+auth_token = "Token1"
 
 weather_params = {
     "lat": 46.947975,
@@ -31,7 +30,7 @@ if will_rain:
     message = client.messages \
         .create(
         body="It's going to rain today. Remember to bring an ☔️",
-        from_="+18556312587",
+        from_="+NUMBER",
         to="YOUR TWILIO VERIFIED REAL NUMBER" # I am not putting my real number.
     )
     print(message.status)
